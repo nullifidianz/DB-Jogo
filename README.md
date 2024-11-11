@@ -13,8 +13,8 @@ Este projeto tem como objetivo importar dados de jogos da API RAWG e armazenar a
 
 ```mermaid
 erDiagram
-    game ||--o{ game_genre : contém
-    game ||--o{ game_platform : contém
+    game ||--o{ game_genre : contem
+    game ||--o{ game_platform : contem
     game ||--o{ game_developer : desenvolvido_por
     game ||--o{ game_publisher : publicado_por
     genre ||--o{ game_genre : pertence_a
