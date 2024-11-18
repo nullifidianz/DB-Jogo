@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 - João Paulo Paggi Zuanon Dias - 22.222.058-4
 - Thales Clemente Pasquotto - 22.222.033-7
-- Gustavo Dias Vicentin - xx.xxx.xxx-x
+- Gustavo Dias Vicentin - 22.123.061-8
 
 ## Descrição do Projeto
 
